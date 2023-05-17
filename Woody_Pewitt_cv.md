@@ -2,17 +2,17 @@
 
 ## Summary
 
-Experienced software producer, architect, and manager who has a passion for working with others to achieve outstanding results. Adept at managing groups and working at all levels across groups and organizations to deliver products and solutions that excite & delight customers. Endlessly curious about ways to improve systems and processes that provide value and enhance success. Outstanding presentation skills can present to any audience level and size. Possesses a get-it-done attitude!
+Experienced software producer, architect, manager and leader who has a passion for working with others to achieve outstanding results. Adept at managing groups and working at all levels across groups and organizations to deliver products and solutions that excite & delight customers. Endlessly curious about ways to improve systems and processes that provide value and enhance success. Outstanding presentation skills can present to any audience level and size. Possesses a get-it-done attitude!
 
 ## Technology
 
-**Programming languages**: C#, ASP.NET, .NET Core, Containerization, Visual Basic 1.0-6.0 & VB.NET, C++, MS SQL Server, JavaScript, JQuery, HTML5 and MASM (and others)
+**Programming languages**: C#, ASP.NET, .NET Core, Containerization, VB.NET, C++, MS SQL Server, JavaScript, JQuery, HTML5 and MASM (and others)
 
-**Development Tools & Applications**: Visual Studio, Visual Studio Code, .NET Compact Framework, Enterprise Architect, MS Office, MS Internet Information Server, COM+/MS Transaction Server, MSMQ, MS Proxy Server, MS Exchange Server w/Outlook, CDO, Git, Octopus Deploy, Docker, and many others Operating Systems: Microsoft Windows (Win 2 to current releases), Microsoft Pocket PC 2000\2003, Windows Phone 7, Windows Mobile 5, 6, 6.1 & 6.5, DOS, UNIX
+**Development Tools & Applications**: Visual Studio, Visual Studio Code, Enterprise Architect, MS Office, COM+/MS Transaction Server, MSMQ, MS Proxy Server, MS Exchange Server w/Outlook, CDO, Git, Octopus Deploy, Docker, and many others
 
 **Operating Systems**: Microsoft Windows (Win 2 to current releases), Mac (for mobile development) Microsoft Pocket PC 2000\2003, Windows Phone 7, Windows Mobile 5, 6, 6.1 & 6.5, DOS, UNIX
 
-**Architecture Background**: Cloud (AWS & Azure), Bus, E-Commerce, Internet/Extranet/Intranet architecture and programming, Active X COM, Active Server Pages (ASP), Modal View Controller (MVC), ODBC (Open Database Connectivity), ADO, SQL, HTML, JavaScript
+**Architecture Background**: Cloud (AWS & Azure), Bus, E-Commerce, Internet/Extranet/Intranet architecture and programming, Active X COM, Active Server Pages (ASP), Modal View Controller (MVC), ODBC (Open Database Connectivity), ADO, SQL, HTML5, JavaScript
 
 ## Professional Experience
 
@@ -24,9 +24,7 @@ Led technical thought leadership and delivery of excellence-related activities w
 
 Initiated and developed senior-level contacts, including C-level contacts, and built relationships at all levels within client organizations, including lower and middle managers and business and technical staff.
 
-Reviewed market analyses to determine customer needs, price schedules, customer investment, and discount rates. Worked with staffing and recruiting to build high-performance delivery teams for clients. Identified account risks and developed/implemented remediation plans.
-
-Expert Cloud and Data infrastructure experience on Azure Experience in migration and modernization of application portfolios; proficient in modern cloud architectures and the supporting technologies that support IaaS, PaaS, and SaaS solutions
+Expert Cloud and Data infrastructure experience on Azure Experience in migration and modernization of application portfolios; proficient in modern cloud architectures and the supporting technologies that support IaaS, PaaS, and SaaS solutions.
 
 Deep technical understanding of modern software development.
 
@@ -36,13 +34,13 @@ Deep technical understanding of modern software development.
 
 Architecting creative cloud solutions for corporate organizations.
 
-As a software consultant and contractor, the focus is always relieving a clients' pain quickly.
+As a software consultant and contractor, the focus is always relieving on relieving a client's pain quickly.
 
-Creating architectures that quickly solve problems with a concern for future needs and capabilities. Including new technologies provide the maximum future opportunity for clients to continue improvement of solutions.
+Creating architectures that quickly solve problems with a concern for future needs and capabilities. Including new technologies provide the maximum future opportunity for clients to continue the improvement of solutions.
 
 Worked with a large HSA bank to develop new Azure-based architecture. Defined and coordinated running many PoT projects to give the organization confidence in different solutions. Defined training programs for the existing organization Developers and Solution Architects.
 
-Delivered training to Microsoft employees and partners to learn or refine how to develope and deliver Archidiaconal Design sessions.
+Delivered training to Microsoft employees and partners to learn or refine how to develop and deliver Archidiaconal Design sessions.
 
 Worked on a contract to move a $50,000/month infrastructure hosted in RackSpace to Amazon Web Services (AWS), where monthly costs were cut by at least 2k. The reliability and disaster recovery options were greatly improved as well. The overall scalability is greatly enhanced by using Docker containers and additional serverless microservices created with .NET Core Lambda functions.
 
@@ -58,9 +56,9 @@ Worked with product management and development team to develop a .NET Core-based
 
 #### Lead Software Architect 2016 - 2017
 
-Architected and managed a team that developed an Amazon Web Service (AWS) based set of cloud- based microservices. The solution interfaced with external partners and internal lab management systems. The solution allowed all clinical lab communications tests to be fully automated.
+Architected and managed a team that developed an Amazon Web Service (AWS) based set of cloud-based microservices. The solution interfaced with external partners and internal lab management systems. The solution allowed all clinical lab communications tests to be fully automated.
 
-Integrations with partners done with web services allowing partners to be rapidly integrated into to laboratory workflow process at any level.
+Integrations with partners done with web services to allow partners to be rapidly integrated into to laboratory workflow process at any level.
 
 With limited resources and a compressed timeline, I was able to reduce the scope of deliverables for a minimal viable product that ensured later releases could deliver full-scope capabilities. The interface and services have allowed for fully automated processes between orders from sales and marketing to the laboratory. While ensuring the solution was auditable for full HIPAA compliance.
 
@@ -76,8 +74,8 @@ Managed various remote and local agile groups to deliver integrated solutions to
 
 #### Architect/Developer 2014 - 2015
 
-Architected long-term migration plan to migrate ASP.NET Forms application that used many third party components to an ASP.NET MVC with Bootstrap and other open-source, available components. Worked with product management and development to improve the agile process that had primarily been homegrown.
-
+Architected a long-term migration plan to migrate the ASP.NET Forms application that used many third-party components to an ASP.NET MVC with Bootstrap and other open-source, available components. Worked with product management and development to improve the agile process that had primarily been homegrown.
+ 
 I laid out the architectural path to migrate applications and workloads to cloud environments to ensure availability and handle load peaks.
 
 ### Exsilio Solutions
@@ -86,13 +84,13 @@ I laid out the architectural path to migrate applications and workloads to cloud
 
 Worked with various groups within customers to deliver solutions that increase the scalability of the business. Including bringing better visibility to the sales business of customer value and opportunity by developing tools and systems that improve visibility to the business.
 
-I worked with clients to help define business metrics that bring greater value to the organization. Then developed plans to develop tools that would increase the visibility of progress on metric delivery while providing a functionality-engaging interface to individual contributors to ensure data for each metric was collected. Each solution developed to be a readily available cross-platform and device profile using a SaaS model, enabling the overall organization to track, manage, and understand the usage and impact of each solution. Typical solutions used various Azure-based services on ASP.NET using the MVC pattern and different application and UI frameworks such as AngularJS & Bootstrap.
+I worked with clients to help define business metrics that bring greater value to the organization. Then developed plans to develop tools that would increase the visibility of progress on metric delivery while providing a functionality-engaging interface to individual contributors to ensure data for each metric was collected. Each solution was developed to be a readily available cross-platform and device profile using a SaaS model, enabling the overall organization to track, manage, and understand the usage and impact of each solution. Typical solutions used various Azure-based services on ASP.NET using the MVC pattern and different application and UI frameworks such as AngularJS & Bootstrap.
 
 ### First American Corporation
 
 #### Director of Application Architecture, 2013 - 2014
 
-Defined and advanced the strategic vision for application development and integration technologies, managed the portfolio of development assets (platforms and tools) from selection to adoption and through retirement, documented and facilitated their appropriate use, and provided design consulting services. Lead the definition, development, maintenance, and adoption of the company's application architecture strategy and the application enterprise-level road map. Manage budget, issues, risks, and people to accomplish goals. Leaded IT and development maturity process within the organization, implemented corporate standard Software Development Life Cycle (SDLC) to bring constant visibility to the business, and deliver available quality software providing measurable value to the business.
+Defined and advanced the strategic vision for application development and integration technologies, managed the portfolio of development assets (platforms and tools) from selection to adoption and through retirement, documented and facilitated their appropriate use, and provided design consulting services. Lead the definition, development, maintenance, and adoption of the company's application architecture strategy and the application enterprise-level road map. Manage budget, issues, risks, and people to accomplish goals. Led IT and development maturity process within the organization, implemented corporate standard Software Development Life Cycle (SDLC) to bring constant visibility to the business, and deliver available quality software providing measurable value to the business.
 
 ### Telerik
 
@@ -100,7 +98,7 @@ Defined and advanced the strategic vision for application development and integr
 
 Worked to develop a new product as a startup within Telerik, which is a patent-pending Cloud-based cross-platform mobile development solution. Responsible for executing product and business strategy, including content creation through vendors, Jr. developers, and on my own to gain product visibility, market recognition, and product adoption. The product targeted new markets for Telerik as part of an overall Cloud strategy for the company. She provided engineering with product guidance and product management.
 
-I directed and developed many functional Single Page Applications (SPA) for demonstration/education resources, as well as worked on several proof of concept applications with early adopters and major customers.
+I directed and developed many functional Single Page Applications (SPA) for demonstration/education resources, as well as worked on several proof=of-concept applications with early adopters and major customers.
 
 ### King Schools
 
@@ -120,13 +118,13 @@ Drove the adoption of an agile methodology to refine delivery predictability and
 
 #### Product Manager, 2010 - 2010
 
-Responsible for setting policies and procedures on product direction, setting pricing, comparing, and monitoring competition. Worked closely with Engineering, Sales, and Marketing to ensure overall product success in quality, perception, and revenue goals. Drove effort to bring the first cloud-based offering using Amazon's infrastructure.
+Responsible for setting policies and procedures on product direction, setting pricing, comparing, and monitoring competition. Worked closely with Engineering, Sales, and Marketing to ensure product success in quality, perception, and revenue goals. Drove effort to bring the first cloud-based offering using Amazon's infrastructure.
 
 ### Microsoft
 
 #### Microsoft Evangelist 2005 - 2010
 
-I had several different Evangelist roles while I was at Microsoft, and each role focused on different audiences. All roles required being a technical expert on the .NET development platform and having a deep understanding of the competitive landscape. I communicated the value proposition of the platform and giving detailed feedback to various product groups.
+I had several different Evangelist roles while I was at Microsoft, and each role focused on different audiences. All roles required being a technical expert on the .NET development platform and having a deep understanding of the competitive landscape. I communicated the value proposition of the platform and gave detailed feedback to various product groups.
 
 ##### Partner Evangelist
 
@@ -134,41 +132,40 @@ In the Developer Platform and Evangelism West Region group, covering the entire 
 
 ##### Architectural Evangelist
 
-In the Developer Platform and Evangelism West Region group covering Southern California. Drove depth relationships with customers from all segments to gain platform adoption. Developed value proposition content and messaging for use by DPE West Region to drive adoption in the startup community and competitive audiences. Worked with many startups to ensure success with the Microsoft platform, including architectural and hands-on development guidance and support.
-
+In the Developer Platform and Evangelism West Region group covering Southern California. Drove depth relationships with customers from all segments to gain platform adoption. Developed value proposition content and messaging for DPE West Region to drive adoption in the startup community and competitive audiences. Worked with many startups to ensure success with the Microsoft platform, including architectural and hands-on development guidance and support.
+ 
 * Worked with customers for visibility of products and solutions, including press and case studies
 * Developed and executed programs to gain Microsoft visibility in new audiences
 * Received several awards and accolades for my outreach programs and execution
-* Often consulted with enterprise customers on architectural guidance on major projects
+* Often consulted with enterprise customers on architectural guidance on significant projects
 
 ##### Developer Evangelist
 
 In the Developer Platform and Evangelism West Region group covering Southern California and Hawaii. Supported local .NET community activities and EPG customer accounts. Helped local community groups collaborate and market themselves to increase the monthly reach of the groups' meetings. Worked with local and national account teams to expose non-Microsoft customers to the Microsoft platform to drive the adoption of .NET technology.
-
+ 
 * Actively engaged the local competitive audience to affect perception change in that community. With three years of engagement in the competitive community, there have been many indications of impact, including the adoption of Microsoft technology and blog posts.
-* Executed many events for the local developer community including PDC Underground, SoCal Code Camps, Visual Studio 2005 Launch & Community Launch as well as many others. This included building and maintaining supporting sites and back-end tools.
+* Executed many events for the local developer community, including PDC Underground, SoCal Code Camps, Visual Studio 2005 Launch & Community Launch, and many others. This included building and maintaining supporting sites and back-end tools.
 * Working with the DPE West Region strategy team, I drove technology implementations of early technology adoption wins at MySpace, SpotRunner, Qualcomm, and many other accounts.
-* Worked closely with the West Region Customer and Academic groups in Southern California and Hawaii to scale the impact of activities across audiences. Involved customers and students at community activities as well as organized community activities on college campuses to increase impact of efforts.
+* Worked closely with the West Region Customer and Academic groups in Southern California and Hawaii to scale the impact of activities across audiences. Involved customers and students in community activities and organized community activities on college campuses to increase the impact of efforts.
 
 ### InterKnowlogy LLC
 
 #### Principal Engineer 2000 - 2005
 
 InterKnowlogy is a Microsoft Gold partner specializing in delivering custom solutions to customers using current and emerging technologies.
-
+ 
 * As part of the management team, managed services offerings, coordinating engineering efforts in developing sales and marketing material.
 * Responsible for the development of marketing collateral and priorities.
 * Supported sales and marketing efforts with pre-sales support, speaking, and coordination of
 writing opportunities.
 * Participated in and managed the creation and review of proposals, functional specifications, built
-proof-of-concept prototypes, created "bottom up" development schedules, reviewed testing plans, developed and produced products, addressed and fixed bugs in a timely manner, and delivered quality solutions.
-* Participated as the subject matter expert for the development of the Microsoft Official Curriculum Course, "Developing Mobile Applications Using the Microsoft .NET Compact Framework" and other content. Worked with a major client on the Microsoft .NET Early Adopter Program. Traveled to the Microsoft Campus several times under the Early Adopter program to have direct access to the product team.
-* Worked with major clients to help with planning and budgeting internal and contract resources.
+proof-of-concept prototypes, created "bottom-up" development schedules, reviewed testing plans, developed and produced products, addressed and fixed bugs in a timely manner, and delivered quality solutions.
+* Participated as the subject matter expert for developing the Microsoft Official Curriculum Course, "Developing Mobile Applications Using the Microsoft .NET Compact Framework" and other content. Worked with a major client on the Microsoft .NET Early Adopter Program. Traveled to the Microsoft Campus several times under the Early Adopter program to have direct access to the product team.
+* Worked with major clients to help plan and budget internal and contract resources.
 * Developed cross-enterprise secure sign-on components utilizing Triple Data Encryption
 * Algorithm (TDEA), Secure Hash Algorithm (SHA-1), and synchronized a Netscape LDAP
 server with a Microsoft LDAP Server as needed.
-* Speaker at Microsoft Developer Days 2000 in Orange County (1000-1500 attendees), presented
-on BizTalk and other Microsoft B2B products.
+* Speaker at Microsoft Developer Days 2000 in Orange County (1000-1500 attendees), presented on BizTalk and other Microsoft B2B products. 
 
 ### Stellcom Technologies
 
@@ -188,7 +185,6 @@ Winresourcees was a Microsoft partner that specialized in delivering custom solu
 * Presented technical topics at marketing events for WinResources
 * Developed engineering practices to support project development with other senior WinResources
 employees
-* Speaker at Microsoft Developer Days 1998 in San Diego I spoke on Office automation
 
 ### Motiva Software Corporation
 
@@ -196,10 +192,10 @@ employees
 
 Motiva was a startup document management software product company.
 
-* Responsible for development of technical collateral materials, construction of application demonstrations using the Motiva toolset. Customer presentation support, technical presentations at seminars, trade shows, and events.
+* Responsible for the development of technical collateral materials and construction of application demonstrations using the Motiva toolset. Customer presentation support and technical presentations at seminars, trade shows, and events.
 * Developed a technology transfer program for Motiva partners to enable custom development using the Motiva platform.
-* Organized and managed the Motiva Developer Program to encourage third parties/ISV's to develop Motiva applications and add-ons.
-* Actively produced client and web-based proof-of-concept projects for major sales opportunities.
+* Organized and managed the Motiva Developer Program to encourage third parties/ISVs to develop Motiva applications and add-ons.
+* Actively produced client and web-based proof-of-concept projects for significant sales opportunities.
 * Assisted with the Motiva European release, making several European trips to evangelize the Motiva toolset and assist partners with sales opportunities.
 * Produced multimedia marketing materials for use by outside sales organizations.
 
@@ -210,7 +206,7 @@ Motiva was a startup document management software product company.
 * Developed a server-side ActiveX component to do all database work with SQL Server 6.5 for
 client applications
 * Worked with Microsoft's IIS server, ISAPI filters, Active Server Pages, and Transaction server
-technology to develop a thin (HTML only) front-end for Motiva
+technology to develop a thin (HTML-only) front end for Motiva
 * Produced a large Microsoft Exchange project for the health industry that underwent and passed
 FDA approval
 
@@ -218,7 +214,7 @@ FDA approval
 
 #### Co-Founder, VP Technology 1991 - 1995
 
-Midstream was a startup company producing proposal management response software focusing on sub- billion dollar Department of Energy and Defense research requests for proposals
+Midstream was a startup company producing proposal management response software focusing on sub-billion dollar Department of Energy and Defense research requests for proposals.
 
 * Responsible for developing software from concept through production
 * Provided development support for Midstream and Midstream consulting client
@@ -233,20 +229,24 @@ distribution media, and product packaging.
 
 #### Part-time instructor 1997 - 2019
 
-Instructed and developed materials for programming classes, including .NET Framework Fundamentals, Visual Basic, and other Programming classes, taught groups of 30 to 40 students in lecture and hands-on laboratory environment. Consistently rated as a top instructor by students and administration.
+Instructed and developed materials for programming classes, including .NET Framework Fundamentals, Visual Basic, and other Programming classes, and taught groups of 30 to 40 students in lecture and hands-on laboratory environments. Consistently rated as a top instructor by students and administration.
 
 ### University of Southern California
 
 #### Academic Program Adviser, 2012 - 2019
 
+Worked with software programs on content for current relevant industry needs.
+
 ### SoCal Code Camp
 
 #### Director - Organizer, 2005 - 2013
 
-Helped to start and run SoCal Code Camp. Contributed to the creation of and ran the website, organized sponsors and speakers.
+Helped to start and run SoCal Code Camp. Contributed to creating and running the website and organized sponsors and speakers.
 
 ### US Navy
 
 #### Electronics Technician 1988 - 1991
 
-_Updated on 05/05/2023_
+Electronics Technicians (ET) trained in computer, aerospace, and electrical engineering to maintain combat readiness across various complex ship and aircraft systems.
+
+_Updated 05/17/2023_
