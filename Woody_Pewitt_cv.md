@@ -1,5 +1,11 @@
 # Woody Pewitt
 
+<br/>
+woody@pewitt.org<br/>
+760-705-4088<br/>
+401 S Upas St, Escondido, Ca 92025
+
+---
 ## Summary
 
 Experienced software producer, architect, manager and leader who has a passion for working with others to achieve outstanding results. Adept at managing groups and working at all levels across groups and organizations to deliver products and solutions that excite & delight customers. Endlessly curious about ways to improve systems and processes that provide value and enhance success. Outstanding presentation skills can present to any audience level and size. Possesses a get-it-done attitude!
@@ -45,6 +51,11 @@ Delivered training to Microsoft employees and partners to learn or refine how to
 Worked on a contract to move a $50,000/month infrastructure hosted in RackSpace to Amazon Web Services (AWS), where monthly costs were cut by at least 2k. The reliability and disaster recovery options were greatly improved as well. The overall scalability is greatly enhanced by using Docker containers and additional serverless microservices created with .NET Core Lambda functions.
 
 The new Lambda-based microservice-based API is the future offering for my client as they move away from a WinForms client to an API-based product offering.
+
+### Solliance
+#### Enterprise Architect/Program Manager 2019 - 2021
+
+Worked with multiple of Solliance's clients to deliver services. Continuously implementing processes and patterns to scale Solliance's and client’s processes. Implemented Agile process, DevOps practices for several customers, including code quality and continuous deployment.
 
 ### ReverseVision
 
@@ -249,4 +260,4 @@ Helped to start and run SoCal Code Camp. Contributed to creating and running the
 
 Electronics Technicians (ET) trained in computer, aerospace, and electrical engineering to maintain combat readiness across various complex ship and aircraft systems.
 
-_Updated 05/17/2023_
+_Updated 05/18/2023_
