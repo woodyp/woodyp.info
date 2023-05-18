@@ -1,11 +1,5 @@
 # Woody Pewitt
 
-<br/>
-woody@pewitt.org<br/>
-760-705-4088<br/>
-401 S Upas St, Escondido, Ca 92025
-
----
 ## Summary
 
 Experienced software producer, architect, manager and leader who has a passion for working with others to achieve outstanding results. Adept at managing groups and working at all levels across groups and organizations to deliver products and solutions that excite & delight customers. Endlessly curious about ways to improve systems and processes that provide value and enhance success. Outstanding presentation skills can present to any audience level and size. Possesses a get-it-done attitude!
@@ -63,6 +57,8 @@ Worked with multiple of Solliance's clients to deliver services. Continuously im
 
 Worked with product management and development team to develop a .NET Core-based AWS serverless microservice-based API. The API will allow ReverseVision to bring new product offerings to its customers, enabling exponential sales opportunities.
 
+Implemented CI/CD pipeline to deploy services to AWS environments.
+
 ### Epic Sciences
 
 #### Lead Software Architect 2016 - 2017
@@ -101,7 +97,8 @@ I worked with clients to help define business metrics that bring greater value t
 
 #### Director of Application Architecture, 2013 - 2014
 
-Defined and advanced the strategic vision for application development and integration technologies, managed the portfolio of development assets (platforms and tools) from selection to adoption and through retirement, documented and facilitated their appropriate use, and provided design consulting services. Lead the definition, development, maintenance, and adoption of the company's application architecture strategy and the application enterprise-level road map. Manage budget, issues, risks, and people to accomplish goals. Led IT and development maturity process within the organization, implemented corporate standard Software Development Life Cycle (SDLC) to bring constant visibility to the business, and deliver available quality software providing measurable value to the business.
+Defined and advanced the strategic vision for application development and integration technologies, managed the portfolio of development assets (platforms and tools) from selection to adoption and through retirement, documented and facilitated their appropriate use, and provided design consulting services. Lead the definition, development, maintenance, and adoption of the company's application architecture strategy and the application enterprise-level road map. Manage budget, issues, risks, and people to accomplish goals. Led IT and development maturity process within the organization, implemented corporate standard Software Development Life Cycle (SDLC) to bring constant visibility to the business, and delivered quality software providing measurable value to the business.
+
 
 ### Telerik
 
@@ -109,13 +106,13 @@ Defined and advanced the strategic vision for application development and integr
 
 Worked to develop a new product as a startup within Telerik, which is a patent-pending Cloud-based cross-platform mobile development solution. Responsible for executing product and business strategy, including content creation through vendors, Jr. developers, and on my own to gain product visibility, market recognition, and product adoption. The product targeted new markets for Telerik as part of an overall Cloud strategy for the company. She provided engineering with product guidance and product management.
 
-I directed and developed many functional Single Page Applications (SPA) for demonstration/education resources, as well as worked on several proof=of-concept applications with early adopters and major customers.
+I directed and developed many functional Single Page Applications (SPA) for demonstration/education resources and worked on several proof-of-concept applications with early adopters and major customers.
 
 ### King Schools
 
 #### Director of Software Development, 2011 - 2012
 
-Responsible for all software architecture, development, and maintenance at King Schools, the world's leading producer of aviation training videos and computer software. Architected and led the development team to deliver the first King Schools ASP.NET MCV based HTML5 learning management platform. The first version was delivered in less than five months, where previous development efforts to provide a new platform had failed after over a year's effort.
+Responsible for all software architecture, development, and maintenance at King Schools, the world's leading producer of aviation training videos and computer software. Architected and led the development team to deliver the first King Schools ASP.NET MVC-based HTML5 learning management platform. The first version was delivered in less than five months, where previous development efforts to provide a new platform had failed after over a year's effort.
 
 ### DevExpress
 
@@ -129,7 +126,7 @@ Drove the adoption of an agile methodology to refine delivery predictability and
 
 #### Product Manager, 2010 - 2010
 
-Responsible for setting policies and procedures on product direction, setting pricing, comparing, and monitoring competition. Worked closely with Engineering, Sales, and Marketing to ensure product success in quality, perception, and revenue goals. Drove effort to bring the first cloud-based offering using Amazon's infrastructure.
+Responsible for setting policies and procedures for product direction, pricing, comparing, and monitoring competition. Worked closely with Engineering, Sales, and Marketing to ensure product success in quality, perception, and revenue goals. Drove effort to bring the first cloud-based offering using Amazon's infrastructure.
 
 ### Microsoft
 
