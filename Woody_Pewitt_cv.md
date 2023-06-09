@@ -1,5 +1,9 @@
 # Woody Pewitt
 
+<br/>
+woody@pewitt.org<br/>
+
+---
 ## Summary
 
 Experienced software producer, architect, manager and leader who has a passion for working with others to achieve outstanding results. Adept at managing groups and working at all levels across groups and organizations to deliver products and solutions that excite & delight customers. Endlessly curious about ways to improve systems and processes that provide value and enhance success. Outstanding presentation skills can present to any audience level and size. Possesses a get-it-done attitude!
@@ -20,13 +24,11 @@ Experienced software producer, architect, manager and leader who has a passion f
 
 #### Director of Client Solutions 2021 - 2023
 
-Led technical thought leadership and delivery of excellence-related activities with strategic accounts. With executive relationships with the key stakeholders (buyers and influencers) while ensuring partner/alliance collaboration. This included ensuring good customer and consultant experience, high margin/profitability, managing bench/recruiting, and partnerships with sales and delivery leaders to add value to clients and form long-term strategic partnerships.
+Worked with clients to understand their business needs and then designed and implemented software architectures that met those needs. I used a variety of tools and methodologies to do this, including Azure DevOps, Jira, and Azure.
 
-Initiated and developed senior-level contacts, including C-level contacts, and built relationships at all levels within client organizations, including lower and middle managers and business and technical staff.
+Led and managed development teams of up to 20 engineers. I was responsible for setting goals, assigning tasks, and ensuring that projects were completed on time and within budget. I also provided technical guidance and support to my team members.
 
-Expert Cloud and Data infrastructure experience on Azure Experience in migration and modernization of application portfolios; proficient in modern cloud architectures and the supporting technologies that support IaaS, PaaS, and SaaS solutions.
-
-Deep technical understanding of modern software development.
+Was responsible for managing our clients' Azure environments. This included setting up and configuring Azure resources, monitoring Azure usage, and troubleshooting Azure problems. I also worked with clients to develop and implement Azure-based solutions. I was also supported clients who needed to use AWS.
 
 ### Pew-it Consulting
 
@@ -49,7 +51,7 @@ The new Lambda-based microservice-based API is the future offering for my client
 ### Solliance
 #### Enterprise Architect/Program Manager 2019 - 2021
 
-Worked with multiple of Solliance's clients to deliver services. Continuously implementing processes and patterns to scale Solliance's and client’s processes. Implemented Agile process, DevOps practices for several customers, including code quality and continuous deployment.
+Worked with multiple of Solliance's clients to deliver services. Continuously implementing processes and patterns to scale Solliance's and client’s capibblities. Implemented Agile process, DevOps practices for several customers, including code quality and continuous deployment.
 
 ### ReverseVision
 
@@ -57,15 +59,15 @@ Worked with multiple of Solliance's clients to deliver services. Continuously im
 
 Worked with product management and development team to develop a .NET Core-based AWS serverless microservice-based API. The API will allow ReverseVision to bring new product offerings to its customers, enabling exponential sales opportunities.
 
-Implemented CI/CD pipeline to deploy services to AWS environments.
+Implemented CI/CD pipeline to deploy services to AWS environments. While managing a team of developers that suported the legicy system and created the new serverless microservice-based API.
 
 ### Epic Sciences
 
 #### Lead Software Architect 2016 - 2017
 
-Architected and managed a team that developed an Amazon Web Service (AWS) based set of cloud-based microservices. The solution interfaced with external partners and internal lab management systems. The solution allowed all clinical lab communications tests to be fully automated.
+Architected and managed the team that developed an AWS based set of cloud-based microservices. The solution interfaced with external partners and internal lab management systems. The solution allowed all clinical lab communications tests to be fully automated.
 
-Integrations with partners done with web services to allow partners to be rapidly integrated into to laboratory workflow process at any level.
+Integrations with partners were done with web services to allow partners to be rapidly integrated into to laboratory workflow process at any level.
 
 With limited resources and a compressed timeline, I was able to reduce the scope of deliverables for a minimal viable product that ensured later releases could deliver full-scope capabilities. The interface and services have allowed for fully automated processes between orders from sales and marketing to the laboratory. While ensuring the solution was auditable for full HIPAA compliance.
 
@@ -73,7 +75,7 @@ With limited resources and a compressed timeline, I was able to reduce the scope
 
 #### Technical Architect 2015 - 2016
 
-Worked with Cisco's partner community to integrate systems with Cisco Impact, a partner-focused sales tool. The typical integration requires service integration and cloud integration. I also worked extensively on internal infrastructure and software architecture efforts to move internal systems to a cloud-based, flexible microservice-based system that can be flexibly operated, monitored, and maintained.
+Worked with Cisco's partner community to integrate systems with Cisco Impact, a partner-focused sales tool. The typical integration requires service integration and cloud integration. I also worked extensively on internal infrastructure and software architecture efforts to move internal systems to  cloud-based, flexible microservice-based system that can be flexibly operated, monitored, and maintained.
 
 Managed various remote and local agile groups to deliver integrated solutions to Cisco's partner community. All groups include full teams, including developers, QA, Product Owner, and scrum master.
 
@@ -91,13 +93,13 @@ I laid out the architectural path to migrate applications and workloads to cloud
 
 Worked with various groups within customers to deliver solutions that increase the scalability of the business. Including bringing better visibility to the sales business of customer value and opportunity by developing tools and systems that improve visibility to the business.
 
-I worked with clients to help define business metrics that bring greater value to the organization. Then developed plans to develop tools that would increase the visibility of progress on metric delivery while providing a functionality-engaging interface to individual contributors to ensure data for each metric was collected. Each solution was developed to be a readily available cross-platform and device profile using a SaaS model, enabling the overall organization to track, manage, and understand the usage and impact of each solution. Typical solutions used various Azure-based services on ASP.NET using the MVC pattern and different application and UI frameworks such as AngularJS & Bootstrap.
+I worked with clients to help define business metrics that bring greater value to the organization. Then manged teams to develop tools that would increase the visibility of progress on metric delivery while providing a functionality-engaging interface to individual contributors to ensure data for each metric was collected. Each solution was developed to be a readily available cross-platform and device profile using a SaaS model, enabling the overall organization to track, manage, and understand the usage and impact of each solution. Typical solutions used various Azure-based services on ASP.NET using the MVC pattern and different application and UI frameworks such as AngularJS & Bootstrap.
 
 ### First American Corporation
 
 #### Director of Application Architecture, 2013 - 2014
 
-Defined and advanced the strategic vision for application development and integration technologies, managed the portfolio of development assets (platforms and tools) from selection to adoption and through retirement, documented and facilitated their appropriate use, and provided design consulting services. Lead the definition, development, maintenance, and adoption of the company's application architecture strategy and the application enterprise-level road map. Manage budget, issues, risks, and people to accomplish goals. Led IT and development maturity process within the organization, implemented corporate standard Software Development Life Cycle (SDLC) to bring constant visibility to the business, and delivered quality software providing measurable value to the business.
+Defined and advanced the strategic vision for application development and integration technologies, manageded a team that developped the portfolio of development assets (platforms and tools) from selection to adoption and through retirement, documented and facilitated their appropriate use, and provided design consulting services. Lead the definition, development, maintenance, and adoption of the company's application architecture strategy and the application enterprise-level road map. Manage budget, issues, risks, and people to accomplish goals. Led IT and development maturity process within the organization, implemented corporate standard Software Development Life Cycle (SDLC) to bring constant visibility to the business, and delivered quality software providing measurable value to the business.
 
 
 ### Telerik
@@ -112,7 +114,7 @@ I directed and developed many functional Single Page Applications (SPA) for demo
 
 #### Director of Software Development, 2011 - 2012
 
-Responsible for all software architecture, development, and maintenance at King Schools, the world's leading producer of aviation training videos and computer software. Architected and led the development team to deliver the first King Schools ASP.NET MVC-based HTML5 learning management platform. The first version was delivered in less than five months, where previous development efforts to provide a new platform had failed after over a year's effort.
+Responsible for all software architecture, development, and maintenance at King Schools, the world's leading producer of aviation training videos and computer software. Architected and managed the development team to deliver the first King Schools ASP.NET MVC-based HTML5 learning management platform. The first version was delivered in less than five months, where previous development efforts to provide a new platform had failed after over a year's effort.
 
 ### DevExpress
 
@@ -257,4 +259,4 @@ Helped to start and run SoCal Code Camp. Contributed to creating and running the
 
 Electronics Technicians (ET) trained in computer, aerospace, and electrical engineering to maintain combat readiness across various complex ship and aircraft systems.
 
-_Updated 05/18/2023_
+_Updated 06/09/2023_
